@@ -1,0 +1,6 @@
+body{font-family:Arial,sans-serif;background:#f4fff4}
+header{background:#2e7d32;color:white;text-align:center;padding:30px}
+.banner{text-align:center;padding:80px}
+.cards{display:flex;gap:20px;justify-content:center}
+.card{background:white;padding:20px;border-radius:10px}
+.quiz{text-align:center;padding:30px}
